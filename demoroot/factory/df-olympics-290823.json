@@ -1,0 +1,9 @@
+{
+	"name": "df-olympics-290823",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fa216aa-2521-4ff6-87fd-f2d022a06eb2",
+		"tenantId": "21e70846-25f9-4f33-9f5a-5f39c1d67200"
+	}
+}
